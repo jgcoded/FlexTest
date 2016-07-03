@@ -1,7 +1,7 @@
 # FlexTest
 A simple scanner using the Flex library
 
-Source.cpp contains demonstrates the API:
+Source.cpp demonstrates the API:
 
 ```cpp
 #include <iostream>
